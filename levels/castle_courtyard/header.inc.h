@@ -1,0 +1,18 @@
+extern const GeoLayout castle_courtyard_area_1_geo[];
+extern const GeoLayout castle_courtyard_area_1[];
+extern const Collision castle_courtyard_area_1_collision[];
+extern const MacroObject castle_courtyard_area_1_macro_objs[];
+extern u8 castle_courtyard_dl_jrb_textures_00000_rgba16_ci8[];
+extern u8 castle_courtyard_dl_jrb_textures_00000_rgba16_pal_rgba16[];
+extern Vtx castle_courtyard_dl_Level_Mesh_mesh_layer_1_vtx_cull[8];
+extern Vtx castle_courtyard_dl_Level_Mesh_mesh_layer_1_vtx_0[36];
+extern Gfx castle_courtyard_dl_Level_Mesh_mesh_layer_1_tri_0[];
+extern Vtx castle_courtyard_dl_Water_Box_Mesh_mesh_layer_5_vtx_cull[8];
+extern Vtx castle_courtyard_dl_Water_Box_Mesh_mesh_layer_5_vtx_0[4];
+extern Gfx castle_courtyard_dl_Water_Box_Mesh_mesh_layer_5_tri_0[];
+extern Gfx mat_castle_courtyard_dl_Grass_Example[];
+extern Gfx mat_revert_castle_courtyard_dl_Grass_Example[];
+extern Gfx mat_castle_courtyard_dl_sm64_water_mat[];
+extern Gfx mat_revert_castle_courtyard_dl_sm64_water_mat[];
+extern Gfx castle_courtyard_dl_Level_Mesh_mesh_layer_1[];
+extern Gfx castle_courtyard_dl_Water_Box_Mesh_mesh_layer_5[];

@@ -7,7 +7,7 @@
 /**
  * Changes Mario's ground turn radius by making it dependent on the analog stick magnitude and speed.
  */
-// #define VELOCITY_BASED_TURN_SPEED
+#define VELOCITY_BASED_TURN_SPEED
 
 /**
  * Allows Mario to easily side flip when moving forwards at any speed.
@@ -46,7 +46,7 @@
 /**
  * Disables the scream that mario makes when falling off a great height (this is separate from actual fall damage).
  */
-// #define NO_FALL_DAMAGE_SOUND
+#define NO_FALL_DAMAGE_SOUND
 
 /**
  * Fall height for normal fall damage. Vanilla is 1150.0f.
@@ -71,7 +71,7 @@
 /**
  * Prevents Mario from losing his cap.
  */
-// #define PREVENT_CAP_LOSS
+#define PREVENT_CAP_LOSS
 
 /**
  * Uses Shindou's pole behavior.
@@ -86,7 +86,7 @@
 /**
  * Enables the ability to hold Z while twirling to descend faster.
  */
-// #define Z_TWIRL
+#define Z_TWIRL
 
 /**
  * Disables bonks when ground pounding next to a wall.

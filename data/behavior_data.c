@@ -1687,9 +1687,11 @@ const BehaviorScript bhvWfSolidTowerPlatform[] = {
 const BehaviorScript bhvLeafParticleSpawner[] = {
     BEGIN(OBJ_LIST_DEFAULT),
     OR_INT(oFlags, OBJ_FLAG_UPDATE_GFX_POS_AND_ANGLE),
-    CALL_NATIVE(bhv_snow_leaf_particle_spawn_init),
-    DELAY(1),
-    DEACTIVATE(),
+	BEGIN_LOOP(),
+		CALL_NATIVE(bhv_snow_leaf_particle_spawn_init),
+		DELAY(1),
+	END_LOOP(),
+   // DEACTIVATE(),
 };
 
 const BehaviorScript bhvTreeSnow[] = {
