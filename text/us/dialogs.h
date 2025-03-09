@@ -201,10 +201,7 @@ Do you want to Save?\n\
 //Yes////No"))
 
 DEFINE_DIALOG(DIALOG_014, 1, 4, 30, 200, _("\
-Wow! Another Power Star!\n\
-Mario gains more courage\n\
-from the power of the\n\
-castle.\n\
+Something Strange...\n\
 Do you want to Save?\n\
 \n\
 //You Bet//Not Now"))
@@ -1697,33 +1694,11 @@ Left: Black Hole\n\
 Arrow: You are here"))
 
 DEFINE_DIALOG(DIALOG_141, 1, 5, 150, 200, _("\
-You've recovered one of\n\
-the stolen Power Stars!\n\
-Now you can open some of\n\
-the sealed doors in the\n\
-castle.\n\
-Try the Princess's room\n\
-on the second floor and\n\
-the room with the\n\
-painting of Whomp's\n\
-Fortress on Floor 1.\n\
-Bowser's troops are still\n\
-gaining power, so you\n\
-can't give up. Save us,\n\
-Mario! Keep searching for\n\
-Stars!"))
+Interesting thing\n\
+"))
 
 DEFINE_DIALOG(DIALOG_142, 1, 5, 150, 200, _("\
-You've recovered three\n\
-Power Stars! Now you can\n\
-open any door with a 3\n\
-on its star.\n\
-\n\
-You can come and go from\n\
-the open courses as you\n\
-please. The enemies ahead\n\
-are even meaner, so be\n\
-careful!"))
+did it"))
 
 DEFINE_DIALOG(DIALOG_143, 1, 6, 150, 200, _("\
 You've recovered eight of\n\
