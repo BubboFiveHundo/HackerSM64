@@ -10,7 +10,7 @@ const GeoLayout castle_grounds_area_3_geo[] = {
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_ALPHA, -313, -581, -1762, 42, 0, 0, castle_grounds_dl_Cube_011_mesh_layer_4),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 2701, 4271, 3087, 0, -40, 0, castle_grounds_dl_Cube_013_mesh_layer_1),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 2701, 4271, 3087, 0, -40, 0, castle_grounds_dl_Cube_014_mesh_layer_1),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_ALPHA, -76, 1203, 731, 0, -21, 0, castle_grounds_dl_Cube_015_mesh_layer_4),
+		GEO_TRANSLATE_NODE_WITH_DL(LAYER_ALPHA, -76, 1203, 731, castle_grounds_dl_Cube_015_mesh_layer_4),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, -92, 1233, 748, -24, -10, -34, castle_grounds_dl_Cube_016_mesh_layer_1),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, -62, -1640, 767, -24, -10, -34, castle_grounds_dl_Cube_018_mesh_layer_1),
 		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, 684, 1642, 2899, 0, -135, 0, castle_grounds_dl_Cube_019_mesh_layer_1),

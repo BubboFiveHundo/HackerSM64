@@ -19,7 +19,7 @@ I have been hearing the\n\
 rumor about the aliens\n\
 out there.\n\
 \n\
-It is important.\n\
+I hate you.\n\
 I am your father."))
 
 DEFINE_DIALOG(DIALOG_001, 1, 4, 95, 200, _("\
@@ -289,10 +289,9 @@ inside one of the castle's\n\
 paintings."))
 
 DEFINE_DIALOG(DIALOG_025, 1, 4, 95, 200, _("\
-It takes the power of\n\
-3 Stars to open this\n\
-door. You need [%] more\n\
-Stars."))
+You seem cool.\n\
+Get us 3 Nuke Bombs.\n\
+We have a violent plan..."))
 
 DEFINE_DIALOG(DIALOG_026, 1, 4, 95, 200, _("\
 It takes the power of\n\
