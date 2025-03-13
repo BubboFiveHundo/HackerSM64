@@ -39,8 +39,8 @@ void scroll_castle_grounds_dl_Cylinder_005_mesh_layer_1_vtx_4() {
 	int deltaY;
 	Vtx *vertices = segmented_to_virtual(castle_grounds_dl_Cylinder_005_mesh_layer_1_vtx_4);
 
-	deltaX = (int)(0.009999999776482582 * 0x20) % width;
-	deltaY = (int)(0.019999999552965164 * 0x20) % height;
+	deltaX = (int)(0.03999999910593033 * 0x20) % width;
+	deltaY = (int)(0.05999999865889549 * 0x20) % height;
 
 	if (absi(currentX) > width) {
 		deltaX -= (int)(absi(currentX) / width) * width * signum_positive(deltaX);
