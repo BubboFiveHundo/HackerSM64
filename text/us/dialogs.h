@@ -290,7 +290,7 @@ paintings."))
 
 DEFINE_DIALOG(DIALOG_025, 1, 4, 95, 200, _("\
 You seem cool.\n\
-Get us 3 Nuke Bombs.\n\
+3 stars fell from heaven.\n\
 We have a violent plan..."))
 
 DEFINE_DIALOG(DIALOG_026, 1, 4, 95, 200, _("\
@@ -464,9 +464,9 @@ a better sledder!\n\
 Better luck next time!"))
 
 DEFINE_DIALOG(DIALOG_038, 1, 3, 95, 200, _("\
-Reacting to the Star\n\
-power, the door slowly\n\
-opens."))
+Tight.\n\
+Come in.\n\
+We will kill your father."))
 
 DEFINE_DIALOG(DIALOG_039, 1, 4, 30, 200, _("\
 No visitors allowed,\n\
