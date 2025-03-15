@@ -1,0 +1,13 @@
+extern const GeoLayout goomba_geo[];
+extern u8 goomba_GoombaFace1_i8[];
+extern Vtx goomba_000_offset_002_mesh_layer_1_vtx_0[57];
+extern Gfx goomba_000_offset_002_mesh_layer_1_tri_0[];
+extern Vtx goomba_000_offset_003_mesh_layer_1_vtx_0[28];
+extern Gfx goomba_000_offset_003_mesh_layer_1_tri_0[];
+extern Vtx goomba_000_offset_004_mesh_layer_1_vtx_0[28];
+extern Gfx goomba_000_offset_004_mesh_layer_1_tri_0[];
+extern Gfx mat_goomba_Goomba[];
+extern Gfx mat_revert_goomba_Goomba[];
+extern Gfx goomba_000_offset_002_mesh_layer_1[];
+extern Gfx goomba_000_offset_003_mesh_layer_1[];
+extern Gfx goomba_000_offset_004_mesh_layer_1[];

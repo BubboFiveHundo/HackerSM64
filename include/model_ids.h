@@ -515,6 +515,7 @@
 #define MODEL_AMP                         0xC2        // dAmpGeo
 #define MODEL_BOBOMB_BUDDY                0xC3        // bobomb_buddy_geo
 #define MODEL_FATHER                      0xFF        // father_geo
+//#define MODEL_SWOOP                       0xFE        // swoop_geo
 // find me
 // find me
 // find me

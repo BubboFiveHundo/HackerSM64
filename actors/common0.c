@@ -81,3 +81,4 @@ UNUSED static const u64 binid_17 = 17;
 UNUSED static const u64 binid_18 = 18;
 
 #include "father/model.inc.c"
+#include "newbomb/model.inc.c"

@@ -29,3 +29,4 @@
 #include "koopa_shell/geo.inc.c"
 
 #include "father/geo.inc.c"
+#include "newbomb/geo.inc.c"
