@@ -143,7 +143,7 @@ const LevelScript level_castle_grounds_entry[] = {
 		OBJECT(MODEL_NONE, 743, -4176, 2047, 0, 21, 0, (0x0A << 16), bhvSpinAirborneWarp),
 		TERRAIN(castle_grounds_area_3_collision),
 		MACRO_OBJECTS(castle_grounds_area_3_macro_objs),
-		STOP_MUSIC(0),
+		SET_BACKGROUND_MUSIC(0x00, SEQ_SONG2),
 		TERRAIN_TYPE(TERRAIN_GRASS),
 		/* Fast64 begin persistent block [area commands] */
 		/* Fast64 end persistent block [area commands] */
@@ -188,7 +188,7 @@ const LevelScript level_castle_grounds_entry[] = {
 		OBJECT(MODEL_NONE, 2734, 2949, -9945, 0, -6, 0, (0x0A << 16), bhvSpinAirborneWarp),
 		TERRAIN(castle_grounds_area_4_collision),
 		MACRO_OBJECTS(castle_grounds_area_4_macro_objs),
-		STOP_MUSIC(0),
+		SET_BACKGROUND_MUSIC(0x00, SEQ_SONG1),
 		TERRAIN_TYPE(TERRAIN_GRASS),
 		/* Fast64 begin persistent block [area commands] */
 		/* Fast64 end persistent block [area commands] */
