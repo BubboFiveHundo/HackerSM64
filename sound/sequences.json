@@ -36,5 +36,6 @@
     "21_menu_file_select": ["24"],
     "22_cutscene_lakitu": {"ifdef": ["VERSION_US", "VERSION_EU", "VERSION_SH"], "banks": ["1B"]},
 	"23_song1": ["26_song1"],
-	"24_song2": ["27_song2"]
+	"24_song2": ["27_song2"],
+	"25_forest": ["28_forest"]
 }
